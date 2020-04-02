@@ -1,0 +1,44 @@
+﻿
+@{
+    ViewBag.Title = "Create";
+}
+
+@Scripts.Render("~/bundles/Contact")
+
+<div class="container border">
+
+    <div class="row">
+        <h2 class="text-center">Create New Contact</h2>
+    </div>
+    <div class="row ">
+        <div class="center-block" style="width:500px">
+            <label>First Name</label>
+            <input type="text" id="txtFname" maxlength="100" class="form-control" />
+        </div>
+    </div>
+    <div class="row ">
+        <div class="center-block" style="width:500px">
+            <label>Last Name</label>
+            <input type="text" id="txtLname" maxlength="100" class="form-control" />
+        </div>
+    </div>
+    <div class="row ">
+        <div class="center-block" style="width:500px">
+            <label>Email</label>
+            <input type="email" id="txtEmail" maxlength="250" class="form-control" />
+        </div>
+    </div>
+    <div class="row ">
+        <div class="center-block" style="width:500px">
+            <label>Mobile Number</label>
+            <input type="number" id="txtMobNo" maxlength="10" class="form-control" />
+        </div>
+    </div>
+    <div class="row" style="padding-top:20px">
+        <div class="center-block" style="width:500px">
+            <input type="button" id="btnSave" class="btn btn-primary" value="Save" />
+            <input type="button" value="Cancel" id="btnCancel" class="btn btn-primary" />
+
+        </div>
+    </div>
+</div>

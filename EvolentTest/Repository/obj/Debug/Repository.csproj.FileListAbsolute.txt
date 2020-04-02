@@ -1,0 +1,9 @@
+D:\Practice\EvolentTest\Repository\bin\Debug\Repository.dll.config
+D:\Practice\EvolentTest\Repository\bin\Debug\Repository.dll
+D:\Practice\EvolentTest\Repository\bin\Debug\Repository.pdb
+D:\Practice\EvolentTest\Repository\bin\Debug\EntityFramework.dll
+D:\Practice\EvolentTest\Repository\bin\Debug\EntityFramework.xml
+D:\Practice\EvolentTest\Repository\obj\Debug\Repository.csprojAssemblyReference.cache
+D:\Practice\EvolentTest\Repository\obj\Debug\Repository.csproj.CopyComplete
+D:\Practice\EvolentTest\Repository\obj\Debug\Repository.dll
+D:\Practice\EvolentTest\Repository\obj\Debug\Repository.pdb
